@@ -9,6 +9,6 @@
 # Changelog (detail des action éfféctuer jour /jour ) #
 #### 13/03 ####
 Création du projet github
- - [x]Préparation de la commande pour le socle de télécommande pour les collégiens
- - [x]Test moteur robot avec pont en H
- - [x]installation batterie sur les robots (reflexion)
+ - [x] Préparation de la commande pour le socle de télécommande pour les collégiens
+ - [x] Test moteur robot avec pont en H
+ - [x] installation batterie sur les robots (reflexion)
