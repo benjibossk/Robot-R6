@@ -8,7 +8,7 @@
 
 # Changelog (detail des action éfféctuer jour /jour ) #
 
-#### 13/03 ####
+#### Mardi 13/03 ####
 
  - [x] Création du projet github
  - [x] Préparation de la commande pour le socle de télécommande pour les collégiens
