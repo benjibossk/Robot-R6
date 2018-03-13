@@ -1,6 +1,6 @@
 ![picture alt](https://i62.servimg.com/u/f62/19/11/08/74/logoro10.png "Title is optional")
 <details>
-           <summary>But du Projet</summary>
+           <summary>Détail du projet (but - engagment - description)</summary>
            <p>Le programme permet d'initier les collégiens au code afin qu'il puissent découvrir l'arduino et au ingénieurs de partager un projet avce une equipe extérieure.Travailler en simplifiant leur contrainte afin que tous le monde puissent comprendre</p>
 </details>
 
