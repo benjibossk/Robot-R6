@@ -6,7 +6,7 @@
            </p>
 </details>
 
-# Changelog (detail des action éfféctuer jour /jour ) #
+# Changelog (detail des actions éfféctuées jour /jour ) #
 
 #### Mardi 13/03 ####
 
